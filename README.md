@@ -1,4 +1,4 @@
-[![Codwears badge](ссылка_на_твой_бейдж)](https://www.codewars.com/users/AnaPodlesnova/badges/small)
+[![Codwears badge](https://www.codewars.com/users/AnaPodlesnova/badges/small)](https://www.codewars.com/users/AnaPodlesnova)
 
 <!--
 **AnaPodlesnova/AnaPodlesnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
